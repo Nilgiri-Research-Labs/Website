@@ -1,3 +1,3 @@
 # Welcome
 
-NRV Labs
+Nilgiri Research Labs
