@@ -1,0 +1,6 @@
+[book]
+authors = ["Rohit Rangaraj"]
+language = "en"
+multilingual = false
+src = "src"
+title = "docs"
