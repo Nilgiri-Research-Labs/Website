@@ -1,3 +1,0 @@
-# Index
-
-- [Welcome](./welcome.md)
