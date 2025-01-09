@@ -1,4 +1,4 @@
-# Meet Our Team
+# Team
 
 Tarun Cousik
 Role: PhD Candidate, Virginia Tech
