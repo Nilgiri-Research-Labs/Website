@@ -1,6 +1,6 @@
 # Index
 
 - [Welcome](./welcome.md)
-- [Team](./Meet Our Team.md)
-- [The_Nilgiri_Cronicle](./Monthly Newsletter.md)
-- [Project](./Our Projects.md)
+- [Team](./MeetOurTeam.md)
+- [The_Nilgiri_Cronicle](./MonthlyNewsletter.md)
+- [Project](./OurProjects.md)
