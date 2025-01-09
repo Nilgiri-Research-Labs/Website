@@ -1,4 +1,4 @@
-# Our Projects
+# Big-Idea
 
 # Hybrid Beamfomring
 We are exploring innovative techniques in adaptive array processing to enhance signal detection and improve the resolution of radar systems.
