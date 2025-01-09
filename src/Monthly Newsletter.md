@@ -1,4 +1,4 @@
-# Monthly Newsletter
+# Newsletter
 
 Monthly Newsletter
 Subscribe
