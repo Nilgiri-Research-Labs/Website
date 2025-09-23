@@ -5,7 +5,7 @@ Role: PhD Candidate, Virginia Tech
 Expertise: Adaptive Signal Processing, Machine Learning, RF Systems
 Bio: Add a short description here.
 
-Rohit Ranganathan
+Rohit Rangaraj
 Role: Undergraduate Student, Virginia Tech
 Expertise: Neural Networks, Optimization Algorithms
 Bio: Add a short description  here.
